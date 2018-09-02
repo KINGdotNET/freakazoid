@@ -12,7 +12,7 @@ freakazoid
 * Added the ability to vote and self-vote if certain criteria have been met.
 
 <center>
-  <img src="http://i.imgur.com/635LS2j.jpg" />
+  <img src="https://que.com/wp-content/uploads/2018/09/QUE.com_.Yehey_.Chatbot.is_.live_.png" />
 </center>
 
 ---
