@@ -22,7 +22,7 @@ This bot will automatically reply to posts and comments that reply to and mentio
 The main reference implementation of Freakazoid is @banjo.  For example:
 
 <center>
-  <img src="http://i.imgur.com/zNN8tPE.png" />
+  <img src="https://que.com/wp-content/uploads/2018/09/QUE.com_.Yehey_.Chatbot.is_.live_.2.png" />
 </center>
 
 ---
